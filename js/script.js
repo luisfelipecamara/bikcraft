@@ -47,6 +47,7 @@ function eventosPerguntas(pergunta) {
 perguntas.forEach(eventosPerguntas);
 
 // Animação
+
 if (window.SimpleAnime) {
   new SimpleAnime();
 }
